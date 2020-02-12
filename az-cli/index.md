@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # You should learn to use Azure CLI! And use it with extensions 
 The x-plat Azure CLI command line tools are an extremely powerful toolbox you can use when it comes to deployment, querying and management of Azure resources. With the CLI you have command line access to a majority (most) of the services Azure provide. 
